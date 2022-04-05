@@ -7,7 +7,7 @@ This bot is against Discord Term's of Service. I am not responsible if you, or y
 ## Features
 * Default prefix is $
 * Easy to read code. Configurable if you know what you're messing with.
-* Updated to work with latest Discord (tested as of 11/9/2020)
+* Updated to work with latest Discord (tested as of 5/4/2022)
 * Deletes command from chat as soon as it's sent to be more stealthy
 
 ## Commands
